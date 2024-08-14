@@ -1,0 +1,3 @@
+--install--
+We install the universalforwarder app from Splunk website on the W10 computer
+We follow the install instructions
